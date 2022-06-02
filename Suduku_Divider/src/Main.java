@@ -9,6 +9,7 @@ public class Main {
 		
 		Suduku suduku = new Suduku();
 		suduku.sudu();
+
 	}
 
 	}
